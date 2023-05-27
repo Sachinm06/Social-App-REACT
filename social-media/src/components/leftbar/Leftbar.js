@@ -53,6 +53,44 @@ function Leftbar() {
           </li>
         </ul>
         <hr className='leftbarHr' />
+        <ul className="leftbarFriendList">
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+          <li className="leftbarFriend">
+            <img className='sidebarFriendImg' src="/assets/person/p2.jpeg" alt="" />
+            <span className="sidebarFriendName">cyaa</span>
+          </li>
+        </ul>
       </div>
     </div>
   )
